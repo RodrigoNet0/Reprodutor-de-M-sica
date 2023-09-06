@@ -1,4 +1,4 @@
-const songName = document.getElementById("nome-musica");
+const songName = document.getElementById("music-name");
 const bandName = document.getElementById("band-name");
 const song = document.getElementById("audio");
 const cover = document.getElementById("cover");
